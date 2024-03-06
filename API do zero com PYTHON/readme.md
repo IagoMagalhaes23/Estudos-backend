@@ -1,12 +1,14 @@
 # API do zero com Python
 
 ## Apresentação
-    Entender como funciona e utilizar uma API é um princípio fundamental de um desenvolvedor. Neste projeto, sigo os ensinamentos da professora Juliana Mascarenhas para utilizar a linguagem Python para consumir a API OpenWeather.
-    A API OpenWeather é API que fornece informações climáticas, é uma API pública. Bastando criar uma conta no site oficial.
-    Neste tutorial, é possível entender como criar uma conta no site oficial e gerar sua api key, para ter acesso as informações geradas pela API. Através da lib Requests é possível acessar e solicitar informações da API. Também foi feito o tratamento de erros, como o 404. E por fim, exibimos o resultado obtido através de um 'simples' print.
+    Olá novamente!
+    Neste projeto estaremos seguindo o tutorial Lauza do canal **Conecta Elas** de **Como criar uma API do zero com Python**.
+    Neste exemplo, aprendemos a construir uma API com Flask e criar rotas para ler, inserir, atualizar e deletar informações. Um CRUD bem simples, mais eficiente para o aprendizado e entendimentos de conceitos como HTTP, Requests e etc.
 
 ## Tecnologias
 - Flask
+- Requests
+- HTTP
 
 ## Referências
 - https://youtu.be/3CSaGuNseD0?si=72Lkt-d-P8pQnFn3
