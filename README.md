@@ -2,8 +2,8 @@
 
 ## Projetos
 - ***API do zero com Python:***
-- *** Consumindo API OpenWeather com Python: ***
-- *** Como enviar emails com Python: ***
+- ***Consumindo API OpenWeather com Python:***
+- ***Como enviar emails com Python:***
 
 ## Ferramentas
 - Flask
